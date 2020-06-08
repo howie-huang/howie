@@ -5,6 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 /**
  * 测试GitHub
+ * 成功后测试
  * @date 2020/6/8
  * @author 31515
  */
